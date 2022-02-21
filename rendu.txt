@@ -1,0 +1,109 @@
+You now have 0 motor 0 wheels at :11:49:09
+producing 10 oil, you now have :10 Oil
+producing 10 oil, you now have :20 Oil
+producing 20 oil, you now have 40 Oil
+Consuming 25 oil
+producing 1 motor
+Consuming 5 oil
+producing 1 wheel
+Consuming 5 oil
+producing 1 wheel
+Consuming 5 oil
+producing 1 wheel
+You now have 1 motor 3 wheels at :11:49:21
+producing 10 oil, you now have :10 Oil
+producing 10 oil, you now have :20 Oil
+producing 20 oil, you now have 40 Oil
+Consuming 5 oil
+producing 1 wheel
+You now have 1 motor 4 wheels at :11:49:30
+producing 10 oil, you now have :45 Oil
+Consuming 25 oil
+producing 1 motor
+Consuming 5 oil
+producing 1 wheel
+Consuming 5 oil
+producing 1 wheel
+Consuming 5 oil
+producing 1 wheel
+Consuming 5 oil
+producing 1 wheel
+You now have 2 motor 8 wheels at :11:49:36
+producing 10 oil, you now have :10 Oil
+producing 10 oil, you now have :20 Oil
+producing 20 oil, you now have 40 Oil
+Consuming 25 oil
+producing 1 motor
+Consuming 5 oil
+producing 1 wheel
+Consuming 5 oil
+producing 1 wheel
+Consuming 5 oil
+producing 1 wheel
+You now have 3 motor 11 wheels at :11:49:49
+producing 10 oil, you now have :10 Oil
+producing 10 oil, you now have :20 Oil
+producing 20 oil, you now have 40 Oil
+Consuming 5 oil
+producing 1 wheel
+You now have 3 motor 12 wheels at :11:49:58
+producing 10 oil, you now have :45 Oil
+Consuming 25 oil
+producing 1 motor
+Consuming 5 oil
+producing 1 wheel
+Consuming 5 oil
+producing 1 wheel
+Consuming 5 oil
+producing 1 wheel
+Consuming 5 oil
+producing 1 wheel
+You now have 4 motor 16 wheels at :11:50:04
+producing 10 oil, you now have :10 Oil
+producing 10 oil, you now have :20 Oil
+producing 20 oil, you now have 40 Oil
+Consuming 25 oil
+producing 1 motor
+Consuming 5 oil
+producing 1 wheel
+Consuming 5 oil
+producing 1 wheel
+Consuming 5 oil
+producing 1 wheel
+You now have 5 motor 19 wheels at :11:50:16
+producing 10 oil, you now have :10 Oil
+producing 10 oil, you now have :20 Oil
+producing 20 oil, you now have 40 Oil
+Consuming 5 oil
+producing 1 wheel
+You now have 5 motor 20 wheels at :11:50:25
+producing 10 oil, you now have :45 Oil
+Consuming 25 oil
+producing 1 motor
+Consuming 5 oil
+producing 1 wheel
+Consuming 5 oil
+producing 1 wheel
+Consuming 5 oil
+producing 1 wheel
+Consuming 5 oil
+producing 1 wheel
+You now have 6 motor 24 wheels at :11:50:31
+producing 10 oil, you now have :10 Oil
+producing 10 oil, you now have :20 Oil
+producing 20 oil, you now have 40 Oil
+Consuming 25 oil
+producing 1 motor
+Consuming 5 oil
+producing 1 wheel
+Consuming 5 oil
+producing 1 wheel
+Consuming 5 oil
+producing 1 wheel
+You now have 7 motor 27 wheels at :11:50:43
+producing 10 oil, you now have :10 Oil
+producing 10 oil, you now have :20 Oil
+producing 20 oil, you now have 40 Oil
+Consuming 5 oil
+producing 1 wheel
+You now have 7 motor 28 wheels at :11:50:52

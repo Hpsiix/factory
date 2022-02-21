@@ -56,7 +56,7 @@ class pump1():
 			time.sleep(1)
 
 			if (execTime <= 0):
-				
+				time.sleep(self.period)
 				return
 			
             
