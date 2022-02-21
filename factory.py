@@ -246,7 +246,8 @@ if __name__ == '__main__':
 
 	# Global scheduling loop
 	while(1):
-		print("You now have " + str(stock1) + " motor " + str(stock2) + " wheels" )
+		
+		print("You now have " + str(stock1) + " motor " + str(stock2) + " wheels at :" + datetime.datetime.now().strftime("%H:%M:%S") )
 
 		for task_to_run in task_list :
 			task_to_run.run()
