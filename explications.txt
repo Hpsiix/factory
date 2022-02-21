@@ -1,0 +1,4 @@
+nombre de moteurs + roues produits en 1 min : 5 motor 20 wheels
+
+le tank  n'arrive j'amais a dépacer 50 vu que j'ai mis des conditions au niveau des pumps pour les empécher de pumper si c'est > à 50 oil,
+y'a jamais plus de moteur que de roues, j'ai utilisé vos conditions donc ça marche.
